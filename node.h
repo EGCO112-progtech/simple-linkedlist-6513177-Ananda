@@ -14,4 +14,9 @@ struct node
     struct node *next;
 };
 
+// typedef struct node
+// {
+//     int value;
+//     struct node *next;
+// }node;
 #endif /* node_h */
